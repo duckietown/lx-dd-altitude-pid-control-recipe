@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.4
 # parameters
-ARG EXERCISE_NAME="dd24-pid-tuning-lx-solution"
+ARG EXERCISE_NAME="lx-dd-altitude-pid-control-solution"
 ARG DESCRIPTION="VSCode - DD24 PID Altitude Tuning"
 ARG MAINTAINER="Duckietown"
 
