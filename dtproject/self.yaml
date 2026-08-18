@@ -1,4 +1,4 @@
-name: "lx-recipe-dd24-pid-tuning"
+name: "lx-dd-altitude-pid-control-recipe"
 maintainer:
     name: "Duckietown"
     email: "info@duckietown.com"
